@@ -1,0 +1,158 @@
+body{
+    font-family: Segoe UI;
+}
+.header{
+    margin-top:10px ;
+    background-color: #53bceb;
+    border: 1px solid;
+    display:block;
+    padding-left: 50px;
+    border-top:5px solid rgb(220, 220, 29);
+    color: white;
+    border-radius:8px;
+}
+.list{
+    padding-left: 50px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+    border: hidden;
+    background-color: #53bceb;
+    color: white;
+}
+
+div.back{
+    background-image: url('https://covernest.com/images/Home_page_bg_1.jpg') ;
+    background-size: cover;
+    background-position: 200;
+    padding: 30 30 100 30;
+    margin: 30px;   
+    border-color: blue;
+    margin: auto;
+    color: #696a6b;
+    height: 45%;
+
+}
+.back img{
+    background-color: white;
+    display: inline-flex;
+    padding: 2px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: rgb(83, 188, 235);
+    border-radius: 20px;
+    margin: 50 100 2 100;
+}
+
+
+.insurance{
+    display: inline-flex;
+    margin-bottom: 35px;
+}
+
+.btn{
+    text-align: center;
+    font-size: 20px;
+    padding: 10px;
+    background-color: #53bceb;
+    border: 2px solid white;
+    border-radius: 6px;
+    color: white;
+    text-decoration: none;
+    margin-top: 10px;  
+      
+}
+
+.btn:hover{
+    background-color: #618798;
+
+}
+
+
+
+div.base{
+    background-color:#eaeff5;
+    padding: 10px 5 100 5;
+    margin: 0px;
+    border: hidden;  
+    
+}
+
+div .ser_1{
+    height: 25px;
+    width: 80px;
+    display: inline;
+    padding: 5 50 20 200;
+}
+div .ser_2{
+    display: inline;
+    height: 25px;
+    width: 150px;
+    padding: 5px 40 20 130;
+
+  
+}
+div .ser_3{
+    display: inline;
+    height: 25px;
+    width:150px; 
+    padding: 5 100 20 100;
+
+
+}
+div.ser_4{
+    display: inline;
+    height: 25px;
+    width: 150px; 
+    padding: 10px 80 200 30;
+
+}
+
+
+div.icons{
+    margin: 0 25 20 25;
+}
+footer{
+    background-color: #696a6b;
+    color: #a3a4a6;
+    padding:20 10 10  10;
+    text-align: center;
+}
+.paytm{
+    text-align: center;
+    border-top:2px dashed #d2e3ea;
+    border-bottom:2px dashed #d2e3ea;
+    padding: 15px;
+
+}
+.paytm img{
+    vertical-align: middle;
+    padding: 5 15 10 15;
+}
+
+footer a{
+    color: #a3a4a6;
+    text-decoration: none;
+
+}
+.about{
+    border-bottom:2px dashed #d2e3ea;
+    padding: 5 20 20 20;
+    display: flex;
+    justify-content: center;
+}
+.about a:hover{
+    color: aliceblue;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    padding: 25px 25 5 25;
+}
+.date:hover{
+    color: aliceblue;
+}
+
+footer{
+    padding: 20 150 20 150;
+}
